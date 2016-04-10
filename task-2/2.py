@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 
-def DFS(start_list,number_of_nodes,nodege_dict,vizited_nodes={},n=1):
+def DFS(start_list,number_of_nodes,nodege_dict,vizited_nodes=set(),n=1):
     if len(vizited_nodes)==number_of_nodes or len(start_list)==0:
         pass
     else:
