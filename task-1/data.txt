@@ -16,4 +16,4 @@ Peach Apricot 300
 Apricot Plum 400
 Apricot Alychovy 200
 GroundStrawberry Strawberry 100
-Strawberry lingonberry 200
+Strawberry lingonberry 300
