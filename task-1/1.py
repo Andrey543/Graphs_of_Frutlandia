@@ -2,6 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 
+
 data=open('data.txt','r')
 
 g=nx.Graph()
