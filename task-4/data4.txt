@@ -1,0 +1,15 @@
+Orange Mandarin 100
+Mandarin Pineapple 200
+Mandarin Kivinova 400
+Kivinova Pineapple 500
+Apple Pear 100
+Apple Cherry 200
+Kivinova Feijoa 600
+Plum Alychovy 600
+Alychovy Thorns 700
+Mandarin Peach 1000
+Apricot Plum 400
+Apricot Alychovy 200
+GroundStrawberry Strawberry 100
+Strawberry lingonberry 200
+Strawberry BlackCherry 900
